@@ -1,3 +1,5 @@
 **/rust/target**
 
 .dccache
+
+**.DS_Store
